@@ -15,27 +15,15 @@ A simple and efficient web application for managing student records. This app al
 
 | Frontend        | Backend        | Database        | Other Tools       |
 |----------------|----------------|-----------------|-------------------|
-| HTML, CSS, JS   | Node.js / Express *(or Django/Flask)* | MongoDB / MySQL   | Git, GitHub, Postman |
+| HTML, CSS, JS   | Flask         |  MySQL            | Git, GitHub |
 
-> *Update this section according to the actual technologies used.*
-
-## 📸 Screenshots
-
-*(Optional: Add screenshots of the app here to give users a preview.)*
 
 ## 📦 Installation
 
 ### Prerequisites
 
 - Node.js and npm (if using JavaScript stack)
-- Python and pip (if using Django or Flask)
+- Python and pip (if usingor Flask) 
 - Git
-- MongoDB or MySQL setup (as per your database)
+- MySQL setup 
 
-### Steps
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/student-record-webapp.git
-cd student-record-webapp
